@@ -56,6 +56,6 @@ class HomeScreen(tk.Frame):
 
     def on_leave(self, event):
         # Restores original background color when mouse leaves
-        event.widget.config(background='SystemButtonFace', foreground='white')
+        event.widget.config(background='SystemButtonFace', foreground='black')
 
 
