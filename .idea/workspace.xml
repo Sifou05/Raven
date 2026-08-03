@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65779501-7f53-4bae-84b4-3ebdcb88041c" name="Changes" comment="">
+    <list default="true" id="65779501-7f53-4bae-84b4-3ebdcb88041c" name="Changes" comment="Initial commit">
       <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/Ransomware.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -12,25 +12,6 @@
       <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Raven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/candidate_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/hashcat_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/model/inference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/model/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/crackSC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/homeSC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/resultsSC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/widgets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../20 Minutes Till Dawn.url" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Barro GT.url" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../C#/Main.cs" beforeDir="false" />
@@ -49,6 +30,7 @@
       <change beforePath="$PROJECT_DIR$/../Ransomware/TestFile4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ransomware/TestFile4.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ransomware/TestFile5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ransomware/TestFile5.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ransomware/supersecretkey.key" beforeDir="false" afterPath="$PROJECT_DIR$/../Ransomware/supersecretkey.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Riot Client.lnk" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Roblox Player.lnk" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Robot Rumble 2.url" beforeDir="false" />
@@ -113,6 +95,23 @@
       <option name="presentableId" value="Default" />
       <updated>1785683952194</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1785764579673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785764579673</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1785764717669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1785764717669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,5 +130,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
