@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65779501-7f53-4bae-84b4-3ebdcb88041c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/Ransomware.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ransomware/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Raven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/candidate_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/hashcat_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/model/inference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/model/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/crackSC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/homeSC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/resultsSC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 Minutes Till Dawn.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Barro GT.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C#/Main.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cheat Engine.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CosmosKernel1 - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Counter-Strike 2.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discord.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Discord.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GeometryDash.exe - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackHub Free Trial.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../People Playground.exe - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Projects" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Projects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ransomware/GotYourFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Ransomware/GotYourFiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ransomware/TestFile1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ransomware/TestFile1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ransomware/TestFile2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ransomware/TestFile2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ransomware/TestFile3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ransomware/TestFile3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ransomware/TestFile4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ransomware/TestFile4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ransomware/TestFile5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Ransomware/TestFile5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ransomware/supersecretkey.key" beforeDir="false" afterPath="$PROJECT_DIR$/../Ransomware/supersecretkey.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Riot Client.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Roblox Player.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Robot Rumble 2.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stingray/StingRay.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Stingray/StingRay.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stingray/files/PortScanner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tom Clancy's Rainbow Six® Siege X.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VALORANT.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VALORANT.url" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vivaldi.lnk" beforeDir="false" afterPath="$PROJECT_DIR$/../Vivaldi.lnk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../website/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../website/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../website/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../website/Untitled-3.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3HMhfynQOVp79aECvCAd4xr06sH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.homeSC.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65779501-7f53-4bae-84b4-3ebdcb88041c" name="Changes" comment="" />
+      <created>1785683952194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785683952194</updated>
+    </task>
+    <servers />
+  </component>
+</project>
