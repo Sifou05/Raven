@@ -12,9 +12,10 @@ banner = r"""
 
 
 class HomeScreen(tk.Frame):
-    def __init__(self, parent):
+    def __init__(self, parent,on_start_attack):
         super().__init__(parent, bg="#240f52")
         self.parent = parent
+        self.on_start_attack = on_start_attack
         self.create_widget()
 
     def create_widget(self):
@@ -27,7 +28,7 @@ class HomeScreen(tk.Frame):
 
         )
         self.title_label.pack(pady=20)
-        self.Start_button = tk.Button(self, text="Start Attack", command=self.destroy)  # Attack Button
+        self.Start_button = tk.Button(self, text="Start Attack", command=self.on_start_attack)  # Attack Button
         self.Start_button.place(relx=0.5, rely=0.4, anchor="n")
         self.Start_button.lift()
 
